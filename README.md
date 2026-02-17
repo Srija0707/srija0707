@@ -2,7 +2,6 @@
 <h3 align="center">Full-Stack Software Engineer | Java • Spring Boot • AWS • Microservices</h3>
 
 ---
-
 ## 🚀 About Me
 
 💼 Software Engineer with 4+ years of experience building large-scale, cloud-native enterprise systems.  
