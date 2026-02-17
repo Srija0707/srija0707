@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Srija Gurram</h1>
+=-[\
+';?<h1 align="center">Hi 👋, I'm Srija Gurram</h1>
 <h3 align="center">Full-Stack Software Engineer | Java • Spring Boot • AWS • Microservices</h3>
 
 ---
@@ -61,10 +62,9 @@ Texas A&M University — May 2025
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srija0707&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srija0707&layout=compact&theme=radical" height="160"/>
-</p>
+![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srija0707&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srija0707&layout=compact&theme=tokyonight)
 
 ---
 
