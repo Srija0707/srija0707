@@ -15,12 +15,10 @@ Experienced in building scalable backend systems, cloud-native services, and ful
 ---
 
 ### 🛠 Skills
-- **Languages:** Java, Python, JavaScript
-- **Backend:** Spring Boot, REST APIs
-- **Frontend:** React
-- **Cloud:** AWS (EC2, S3, Lambda)
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Docker, Postman
+
+
+![My Skills](https://skillicons.dev/icons?i=java,python,react,aws,spring,mysql,postgres,docker,git)
+
 
 ---
 
@@ -28,7 +26,6 @@ Experienced in building scalable backend systems, cloud-native services, and ful
 ⭐ **spring-boot-rest-api** – A backend REST API built with Spring Boot  
 ⭐ **foodops** – REST API for a food ordering and delivery system
 
-*(See pinned repositories below for details)*
 
 ---
 
