@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Srija Gurram</h1>
 <h3 align="center">Full-Stack Software Engineer | Java • Spring Boot • AWS • Microservices</h3>
 
