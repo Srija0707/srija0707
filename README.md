@@ -2,7 +2,6 @@
 <h3 align="center">Full-Stack Software Engineer | Java • Spring Boot • AWS • Microservices</h3>
 
 ---
-[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)]([https://github.com/Srija0707/srija-resume])
 
 ## 🚀 About Me
 
