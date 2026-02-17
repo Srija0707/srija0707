@@ -30,5 +30,11 @@ Experienced in building scalable backend systems, cloud-native services, and ful
 ---
 
 ### 📫 Connect with Me
-🔗 LinkedIn: https://www.linkedin.com/in/srija-gurram-505ab7322/  
-📧 Email: srijaworks@email.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/srija-gurram-505ab7322/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:srij@aworksemail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
