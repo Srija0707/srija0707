@@ -58,6 +58,7 @@
 Texas A&M University — May 2025
 
 ---
+![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srija0707&show_icons=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8)
 
 
 ## 📫 Connect With Me
