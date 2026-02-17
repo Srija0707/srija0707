@@ -58,13 +58,6 @@
 Texas A&M University — May 2025
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Srija0707&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Srija0707&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
 
 ## 📫 Connect With Me
 
