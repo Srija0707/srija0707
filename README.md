@@ -15,6 +15,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,react,angular,aws,docker,kubernetes,mysql,postgres,mongodb,git,github,jenkins,maven&perline=5"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=divakar007&color=4f8ef7&style=flat)
 </p>
 
 ---
