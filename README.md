@@ -62,9 +62,9 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI Financial Chatbot
-- NLP + Emotion-aware AI (PyTorch, NLTK)
-- Personalized financial responses
-- Scalable architecture
+- Developed an **emotion-aware financial assistant** using NLP & ML
+- Improved user experience with **contextual + sentiment-based responses**
+- Designed for **scalability and multi-user interactions**
 
 ### 📊 Expense Tracker System
 - Java + Spring Boot backend
