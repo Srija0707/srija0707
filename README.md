@@ -1,4 +1,4 @@
-# 🚀 Srija Gurram | Software Engineer (Backend & Distributed Systems)
+# 🚀 Srija Gurram | Software Engineer 
 
 Hi 👋 I'm **Srija**, a Software Engineer with 2+ years of experience building **scalable backend systems and microservices** using Java and Spring Boot.
 
@@ -89,15 +89,6 @@ Hi 👋 I'm **Srija**, a Software Engineer with 2+ years of experience building 
 - Java + Spring Boot  
 - Microservices & Distributed Systems  
 - Actively interviewing  
-
----
-
-## 📊 GitHub Stats
-
-
-![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srija0707&show_icons=true&theme=default&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srija0707&layout=compact&theme=default)
 
 ---
 
