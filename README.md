@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ Impact (Google-Style)
+## ⚡ Impact 
 
 - 🚀 Improved API response time by **20%** through query optimization & backend tuning  
 - ⚙️ Designed and deployed **scalable microservices architecture** for production systems  
@@ -69,25 +69,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Srija0707&show_icons=true&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Srija0707&show_icons=true&theme=default" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Srija0707&show_icons=true" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Srija0707&layout=compact&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Srija0707&layout=compact&theme=default" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srija0707&layout=compact" />
-  </picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Srija0707&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Srija0707&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
