@@ -21,6 +21,13 @@
 - 📉 Reduced production errors by **15%** via testing & debugging improvements  
 
 ---
+## 🚀 Highlight Work
+
+- Designed a **distributed microservices system** handling real-time financial data  
+- Built an **AI chatbot with emotion detection** for personalized financial advice  
+- Developed **event-driven architecture using Kafka** for scalable communication
+
+---
 
 ## 💫 About Me
 💻 Software Engineer with **2+ years of experience** in backend systems  
