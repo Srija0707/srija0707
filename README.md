@@ -94,9 +94,10 @@ Hi 👋 I'm **Srija**, a Software Engineer with 2+ years of experience building 
 
 ## 📊 GitHub Stats
 
-![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srija0707&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srija0707&layout=compact)
+![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srija0707&show_icons=true&theme=default&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srija0707&layout=compact&theme=default)
 
 ---
 
