@@ -1,4 +1,4 @@
-                                      # 🚀 Srija Gurram | Software Engineer 
+ # 🚀 Srija Gurram | Software Engineer 
 
 Hi 👋 I'm **Srija**, a Software Engineer with 2+ years of experience building **scalable backend systems and microservices** using Java and Spring Boot.
 
