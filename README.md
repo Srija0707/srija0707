@@ -91,7 +91,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/srija-g-0968111a0/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:Gurramsrija07@gmail.com">
