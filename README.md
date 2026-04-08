@@ -78,22 +78,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com/?user=Srija0707&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://streak-stats.demolab.com/?user=Srija0707&theme=default" 
-      media="(prefers-color-scheme: light)" />
-    <img src="https://streak-stats.demolab.com/?user=Srija0707" />
-  </picture>
-</p>
-
----
-
 ## 🧠 Currently Learning
 
 - System Design (HLD + LLD)  
