@@ -1,77 +1,83 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">Hi 👋, I'm Srija Gurram</h1>
+<h1 align="center">Hi 👋, I'm Srija </h1>
 
 <h3 align="center">
-🚀 Backend Engineer who scales systems, optimizes performance, and builds production-ready microservices
+💻 Full-Stack Software Engineer building scalable applications with clean APIs and intuitive user experiences
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+%7C+Spring+Boot+Engineer;Microservices+%7C+Kafka+%7C+AWS;Distributed+Systems+Enthusiast;Actively+seeking+SWE+roles&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+%7C+Python+%7C+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Frontend+%7C+Backend+Integration;Actively+seeking+SWE+roles&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## ⚡ Impact 
 
-- 🚀 Improved API response time by **20%** through query optimization & backend tuning  
-- ⚙️ Designed and deployed **scalable microservices architecture** for production systems  
-- 📡 Built **event-driven pipelines using Kafka** for asynchronous processing  
-- 🔐 Implemented **OAuth2 & JWT authentication**, securing sensitive enterprise data  
-- 📉 Reduced production errors by **15%** via testing & debugging improvements  
+- 🚀 Improved API performance by **~20%** through query optimization and backend enhancements  
+- 🔗 Built and integrated **REST APIs with frontend systems** for seamless user experience  
+- 🔐 Implemented **secure authentication (JWT & OAuth2)** for application safety  
+- 📉 Reduced execution time by **15–20%** through logic and SQL optimizations  
+- 🧪 Contributed to testing & debugging to improve **code quality and reliability**  
 
 ---
+
 ## 🚀 Highlight Work
 
-- Designed a **distributed microservices system** handling real-time financial data  
-- Built an **AI chatbot with emotion detection** for personalized financial advice  
-- Developed **event-driven architecture using Kafka** for scalable communication
+- Developed **full-stack applications** with Spring Boot backend + simple frontend interfaces  
+- Built an **AI-powered chatbot with emotion detection** for personalized user interaction  
+- Designed **scalable backend systems** supporting real-time data processing  
 
 ---
 
 ## 💫 About Me
-💻 Software Engineer with **2+ years of experience** in backend systems  
-⚙️ Strong in **Distributed Systems, System Design, and APIs**  
-🎯 Focused on building **scalable, reliable, production-grade applications**  
+
+💻 Full-Stack Software Engineer with **2+ years of experience**  
+⚙️ Comfortable working across **frontend + backend + APIs**  
+🎯 Focused on building **user-friendly, scalable applications**  
+📈 Interested in improving **performance, usability, and system design**  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,mysql,postgres,redis,kafka,aws,docker,jenkins,git" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,spring,mysql,postgres,redis,kafka,aws,docker,jenkins,git" />
 </p>
 
 ---
- 
+
 ## 💼 Experience
 
 ### 🏢 Software Engineer | MetLife
-- Built scalable **Spring Boot microservices**
-- Designed **distributed systems architecture**
-- Implemented **Kafka-based pipelines**
-- Achieved **20% performance improvement**
+- Built and maintained **Spring Boot APIs** for claims & policy systems  
+- Integrated backend services with frontend for **better user experience**  
+- Improved API performance by **~20%** through optimization  
+- Implemented **JWT & OAuth2 authentication**  
 
 ### 🏢 Software Engineer | Tech Mahindra
-- Developed backend systems for **financial applications**
-- Optimized APIs → **20% faster execution**
-- Reduced production issues by **15%**
+- Developed **backend services** for financial applications  
+- Built and integrated **REST APIs with frontend systems**  
+- Optimized performance → **15–20% faster execution**  
+- Contributed to **testing, debugging, and code quality improvements**  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Financial Chatbot
-- Developed an **emotion-aware financial assistant** using NLP & ML
-- Improved user experience with **contextual + sentiment-based responses**
-- Designed for **scalability and multi-user interactions**
+- Built using **Python, PyTorch, and NLP (NLTK)**  
+- Implemented **emotion-aware responses** for better user interaction  
+- Designed **full-stack architecture** with scalable backend + frontend  
 
-### 📊 Expense Tracker System
-- Java + Spring Boot backend
-- Real-time analytics & insights
-- REST APIs for transactions
+### 📊 Expense Tracker & Analytics System
+- Developed using **Java + Spring Boot**  
+- Built REST APIs for **transactions and analytics**  
+- Created a **simple frontend UI** for expense visualization  
+- Improved data processing for **faster response times**  
 
 ---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -88,10 +94,11 @@
 
 ---
 
-## 🧠 Currently Leveling Up
-- System Design (HLD + LLD)
-- Distributed Systems
-- LeetCode & Problem Solving
+## 🧠 Currently Learning
+
+- System Design (HLD + LLD)  
+- Distributed Systems Fundamentals  
+- Data Structures & Problem Solving  
 
 ---
 
@@ -112,4 +119,4 @@
 ---
 
 ## ⚡ Fun Fact
-I build systems that are not just functional — but **scalable, efficient, and production-ready** 🚀
+I enjoy building applications that are **not just functional, but intuitive and efficient** 🚀
